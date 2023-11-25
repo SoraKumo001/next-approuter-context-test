@@ -22,7 +22,7 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
     "paths": {
-      // "next-approuter-context": ["src/next-approuter-context/index.ts"]
+      "next-approuter-context": ["src/next-approuter-context/index.ts"]
     }
   },
   "include": ["next-env.d.ts", ".next/types/**/*.ts", "**/*.ts", "**/*.tsx"],
