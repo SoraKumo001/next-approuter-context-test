@@ -14,7 +14,7 @@ Normally `page.tsx` -> `layout.tsx` is executed in this order, but with this lib
 - Vercel  
   https://next-approuter-context-test.vercel.app/
 
-## app/context.tsx
+## app/context.ts
 
 Name the context so that it can be identified when retrieving data
 

@@ -150,10 +150,10 @@ nanoid@^3.3.6:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
   integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
 
-next-approuter-context@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/next-approuter-context/-/next-approuter-context-0.0.8.tgz#316d4d3cc6c4f1e80d8487ced8d98781d23b0053"
-  integrity sha512-RrNw1nM2JzVKc/pPue6hlW5RBbL7GCxxw7Rx4j/tTbCvjGkIzG970ExN5YLOrWsJ6MSUwL2RcI6G0N+oqFp7JQ==
+next-approuter-context@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/next-approuter-context/-/next-approuter-context-0.0.9.tgz#1561137075ea38c010ae2bed2edf7e228193c401"
+  integrity sha512-W5UnCkR4cqYIYgue3eYSLPgv1Wxod2/Ctk2ubc0A2f6QIWqdsAXVhBMb1XHdxh234T9DHe7RmZ2tV20d6SIxvQ==
 
 next@^14.0.3:
   version "14.0.3"
